@@ -1,1 +1,4 @@
 # Data_Visualizations_Portfolio
+
+[Amazon Sales Dashboard](Amazon_Sales_Data_Analysis_and_Demand_Forecasting_in_Google_Colab_Link_to_GitHub_Repository.jpg)
+
